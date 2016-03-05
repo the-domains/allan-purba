@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Allan Purba]]></title>
         <description><![CDATA[Allan Purba]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/allan-purba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 16:08:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 16:14:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/allan-purba/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d61694bc-77dc-417c-a679-b403dd63a1f6.jpg">]]></description>
-            <link>undefined9c831465-4f98-45c0-9463-62f79bca117d/index.html</link>
+            <link>https://thegrid.ai/allan-purba/9c831465-4f98-45c0-9463-62f79bca117d/index.html</link>
             <guid isPermaLink="false">9c831465-4f98-45c0-9463-62f79bca117d</guid>
-            <pubDate>Sat, 05 Mar 2016 16:08:25 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 16:13:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
