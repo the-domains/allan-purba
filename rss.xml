@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Allan Purba]]></title>
+        <description><![CDATA[Allan Purba]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Mar 2016 03:21:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Ich bin Allan Purba, ein begeisterter Videograph aus Kassel. Bei meinen Hochzeitsfilmen, dreht sich alles um die dokumentarische Begleitung.         Nichts stellend, Nichts inszinierend. Ich bin da, aber auch nicht. Ich agiere im Hintergrund, immer auf der Suche nach den großen Emotionen, aber auch den kleinen "unseen moments". Die Musik spielt spielt dabei auch eine große Rolle, mal kraftvoll, mal sanft leise...ein cineastisches Gefühl möchte ich transportieren, erzählt mit meinen Augen und Bilder zeigen, die euch das ganze Leben begleiten sollen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a4e392dda5a5b1b00a131b855db6ab5d373d595.jpg"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">b02ac7b9-a9d3-4fe2-9303-b520470683da</guid>
+            <pubDate>Wed, 16 Mar 2016 03:21:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
