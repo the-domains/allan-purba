@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Allan Purba]]></title>
         <description><![CDATA[Allan Purba]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/allan-purba/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 03:21:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 04:46:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/allan-purba/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Ich bin Allan Purba, ein begeisterter Videograph aus Kassel. Bei meinen Hochzeitsfilmen, dreht sich alles um die dokumentarische Begleitung.         Nichts stellend, Nichts inszinierend. Ich bin da, aber auch nicht. Ich agiere im Hintergrund, immer auf der Suche nach den großen Emotionen, aber auch den kleinen "unseen moments". Die Musik spielt spielt dabei auch eine große Rolle, mal kraftvoll, mal sanft leise...ein cineastisches Gefühl möchte ich transportieren, erzählt mit meinen Augen und Bilder zeigen, die euch das ganze Leben begleiten sollen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a4e392dda5a5b1b00a131b855db6ab5d373d595.jpg"></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/allan-purba/about/index.html</link>
             <guid isPermaLink="false">b02ac7b9-a9d3-4fe2-9303-b520470683da</guid>
             <pubDate>Wed, 16 Mar 2016 03:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cinema]]></title>
+            <description><![CDATA[<article><h1>Cinema</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50b513ad8c3f9cb1ca2f410f5b1a9c637361c393.jpg"></article>]]></description>
+            <link>https://vimeo.com/159164647</link>
+            <guid isPermaLink="false">e8c55c6a-6325-4702-9fba-5d955ff89b88</guid>
+            <pubDate>Wed, 16 Mar 2016 04:46:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
