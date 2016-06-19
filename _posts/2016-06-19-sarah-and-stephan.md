@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Sarah & Stephan
-datePublished: '2016-06-19T03:55:16.606Z'
-dateModified: '2016-06-19T03:55:02.874Z'
+datePublished: '2016-06-19T04:07:05.489Z'
+dateModified: '2016-06-19T04:06:56.429Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-19-sarah-and-stephan.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: sarah-and-stephan/index.html
-_type: Article
+_type: WebPage
 
 ---
 Sarah & Stephan
